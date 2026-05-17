@@ -1,4 +1,4 @@
-# Привет! Я [Леонид] 👋
+# Привет! Я Леонид 👋
 
 QA Engineer | Manual & API Testing
 
@@ -6,16 +6,19 @@ QA Engineer | Manual & API Testing
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximusFakuaD&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximusFakuaD&show_icons=true&theme=default&hide_title=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximusFakuaD&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximusFakuaD&layout=compact&theme=default)
+---
 
 ## 🛠 Технологии и инструменты
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pytest](https://img.shields.io/badge/pytest-%23ffffff?style=for-the-badge&logo=pytest&logoColor=2e2e2e)
-![Git](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+`Python` `Postman` `PostgreSQL` `Pytest` `Git` `Google Sheets` `Android Studio` `REST API` `Swagger` `Jira`
+
+---
+
+## 📫 Связаться со мной
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/londalius)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:londalork@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MaximusFakuaD)
