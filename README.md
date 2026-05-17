@@ -1,4 +1,4 @@
-# Привет! Я Леонид 👋
+# Привет! Я Максим 👋
 
 QA Engineer | Manual & API Testing
 
@@ -11,14 +11,20 @@ QA Engineer | Manual & API Testing
 
 ---
 
-## 🛠 Технологии и инструменты
+## 🛠 Languages and Tools
 
-`Python` `Postman` `PostgreSQL` `Pytest` `Git` `Google Sheets` `Android Studio` `REST API` `Swagger` `Jira`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="border-radius: 50%;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" style="border-radius: 50%;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="border-radius: 50%;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="border-radius: 50%;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40" style="border-radius: 50%;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" height="40" style="border-radius: 50%;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="border-radius: 50%;"/>
 
 ---
 
-## 📫 Связаться со мной
+## 📫 Contact with me
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/londalius)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:londalork@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MaximusFakuaD)
+<a href="https://t.me/londalius">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40" style="border-radius: 50%;"/>
+</a>
