@@ -29,7 +29,7 @@ QA Engineer | Manual & API Testing
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" style="border-radius: 50%;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" height="40" style="border-radius: 50%;"/>
   <!-- Fiddler - стабильная иконка -->
-  <img src="https://www.telerik.com/fiddler/images/fiddler-logo.png" width="40" height="40" style="border-radius: 50%;"/>
+  <img src="[https://www.telerik.com/fiddler/images/fiddler-logo.png](https://blog.moabdelfattah.com/wp-content/uploads/2018/09/fiddler.png)" width="40" height="40" style="border-radius: 50%;"/>
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" style="border-radius: 50%;"/>
   <!-- Testing frameworks -->
