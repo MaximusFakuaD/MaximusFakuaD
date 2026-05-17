@@ -29,7 +29,7 @@ QA Engineer | Manual & API Testing
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" style="border-radius: 50%;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" height="40" style="border-radius: 50%;"/>
   <!-- Fiddler - стабильная иконка -->
-  <img src="https://www.telerik.com/fiddler/images/fiddler-logo.png" width="40" height="40" style="border-radius: 50%;"/>
+  <img src="[https://www.telerik.com/fiddler/images/fiddler-logo.png](https://camo.githubusercontent.com/1d81aaa04c613e02733b5461bac41ea30bc7bde88376aac5c65e86f4019d71d9/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d7750436d426f39564148552f5836524669696177466b492f4141414141414141466c592f37437262736b35456c65344f577038464c33354842722d46723744543041394c51434c63424741735948512f733230302f466964646c65722d457665727977686572652d49636f6e2e706e67)" width="40" height="40" style="border-radius: 50%;"/>
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" style="border-radius: 50%;"/>
   <!-- Testing frameworks -->
