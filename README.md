@@ -28,7 +28,7 @@ QA Engineer | Manual & API Testing
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="border-radius: 50%;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" style="border-radius: 50%;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" height="40" style="border-radius: 50%;"/>
-  <img src="https://www.svgrepo.com/show/354092/fiddler.svg" width="40" height="40" style="border-radius: 50%;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906339.png" width="40" height="40" style="border-radius: 50%;"/>
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" style="border-radius: 50%;"/>
   <!-- Testing frameworks -->
