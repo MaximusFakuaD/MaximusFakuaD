@@ -1,4 +1,4 @@
-# Привет! Я Максим 👋
+# Привет! Я Леонид 👋
 
 QA Engineer | Manual & API Testing
 
@@ -24,11 +24,24 @@ QA Engineer | Manual & API Testing
 ## 🛠 Languages and Tools
 
 <p align="left">
+  <!-- API & Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="border-radius: 50%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" style="border-radius: 50%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="border-radius: 50%;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" style="border-radius: 50%;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" height="40" style="border-radius: 50%;"/>
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" style="border-radius: 50%;"/>
+  <!-- Testing frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" height="40" style="border-radius: 50%;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" style="border-radius: 50%;"/>
+  <!-- Cross-browser -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="border-radius: 50%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40" style="border-radius: 50%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" height="40" style="border-radius: 50%;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="border-radius: 50%;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="border-radius: 50%;"/>
+  <!-- Documentation & Tracking -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" style="border-radius: 50%;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Sheets_icon_2014.svg" width="40" height="40" style="border-radius: 50%;"/>
+  <!-- Version control & CI/CD -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="border-radius: 50%;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" style="border-radius: 50%;"/>
+  <!-- Mobile -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" style="border-radius: 50%;"/>
 </p>
