@@ -4,13 +4,6 @@ QA Engineer | Manual & API Testing
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximusFakuaD&show_icons=true&theme=default&hide_title=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximusFakuaD&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)
-
----
-
 ## 📫 Contact with me
 
 <p align="left">
